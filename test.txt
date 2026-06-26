@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<head>
+
+</head>
+
+<style>
+    ul {
+    display: flex;
+    font-size: 16px;
+    }
+</style>
+
+<body>
+    <ul>
+        <li> HOME
+        </li>
+        <li>
+            ABOUT
+        </li>
+        <li> "OTHER" </li>
+    </ul>
+    <h1> WELCOME TO MY WEBSITE </h1>
+    <p> I love HTML! I love Drums </p>
+</body>

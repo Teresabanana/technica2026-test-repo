@@ -1,2 +1,3 @@
-# technica2026-test-repo
-Description
+# Teresa
+UC Irvine
+2026
